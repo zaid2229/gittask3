@@ -1,0 +1,21 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+ul
+{
+    padding: 25px;
+}
+h2
+{
+    margin-bottom: 21px;
+}
+p
+{
+    padding: 10px;
+}
+.bg
+{
+    background-color: yellow;
+}
